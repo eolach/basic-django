@@ -1,4 +1,4 @@
-#!/home/heng/basic-django/.venv/bin/python3.6m
+#!/Users/MiniMc/webServers/basic-django/.venv/bin/python3.6
 from django.core import management
 
 if __name__ == "__main__":

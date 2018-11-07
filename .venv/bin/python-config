@@ -1,4 +1,4 @@
-#!/home/heng/basic-django/.venv/bin/python
+#!/Users/MiniMc/webServers/basic-django/.venv/bin/python
 
 import sys
 import getopt
